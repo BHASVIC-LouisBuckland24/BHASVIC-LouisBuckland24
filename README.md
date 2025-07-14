@@ -7,4 +7,4 @@
 - I’m currently learning A level Compueter Science. 
 - How to reach me: my email is lsb@nmpbooks.com
 - This is a group project I collaberated on in class about a simple Hotel system. - https://github.com/BHASVIC-CompSci/LouisBuckland-Jack-HotelKashyyyk
-- This is another group project I worked on in class which developed my knowledge of Java greatly. We had to code a version of monopoly with animals, therefore it was called animonopoly. 
+- This is another group project I worked on in class which developed my knowledge of Java greatly. We had to code a version of monopoly with animals, therefore it was called animonopoly. - https://github.com/BHASVIC-CompSci/animalopoly-BHASVIC-LouisBuckland24. This link is only to the parts that I coded so are not able to be run but do show my ability. 
